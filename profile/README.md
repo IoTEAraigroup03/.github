@@ -3,6 +3,6 @@
 IoTE Kmitl Official Website : [Click Here](https://www.iote.kmitl.ac.th)
 
 #### Members
--
--
--
+- NUTTIDA	KANJANALIKHIT
+- NATTHAWIT	NOWANGHAN
+- THANATHON	PINYOMETAKUN
