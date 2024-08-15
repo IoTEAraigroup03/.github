@@ -3,12 +3,12 @@
 IoTE Kmitl Official Website : [Click Here](https://www.iote.kmitl.ac.th)
 
 #### Members
-- NUTTIDA	KANJANALIKHIT
-- NATTHAWIT	NOWANGHAN
-- THANATHON	PINYOMETAKUN
-- JIRAWAT	INTANANOK
-- TECHAWICH	AJJAGLAB
-- EAKAWAT	BUANITISIN
-- NATTANAN	KANTANAANAN
-- CHUTIPON	SAECHIEW
-- TANAWUT TESKWANYUEN
+- Nuttida Kanjanalikit
+- Natthawit Nowanghan
+- Thanathon Pinyometakun
+- Jirawat Intananok
+- Techawich Ajjaglab
+- Eakawat Buanitisin
+- Nattanan Kantananaan
+- Chutipon Saechiew
+- Tanawut Teskwanyuen
