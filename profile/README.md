@@ -1,7 +1,7 @@
 ## Hi 👋 We are IoT System and Information Engineering 03 at King Mongkut's Institute of Technology Ladkrabang (University in Thailand)
 
-[^1]: IoTE กลุ่มอะไร Website : [Coming Soon]
-[^2]: IoTE Kmitl Official Website : [Click Here](https://www.iote.kmitl.ac.th)
+IoTE กลุ่มอะไร Website : [Coming Soon] <br>
+IoTE Kmitl Official Website : [Click Here](https://www.iote.kmitl.ac.th)
 
 #### Members
 - Nuttida Kanjanalikit
