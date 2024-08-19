@@ -4,7 +4,7 @@ IoTE กลุ่มอะไร Website : [Coming Soon] <br>
 IoTE Kmitl Official Website : [Click Here](https://www.iote.kmitl.ac.th)
 
 ## 📌 ที่เก็บข้อมูลปักหมุด 
-ดู Code ใหม่ของ Natthawit Nowanghan ได้ที่นี่ :
+ดู Code ใหม่ของ Natthawit ได้ที่นี่ : [วิชา IoT](https://github.com/IoTEAraigroup03/Pao-IntroductiontoIoT-KMITL)
 
 #### Members
 - Nuttida Kanjanalikit
