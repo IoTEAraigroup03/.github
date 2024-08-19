@@ -3,6 +3,9 @@
 IoTE กลุ่มอะไร Website : [Coming Soon] <br>
 IoTE Kmitl Official Website : [Click Here](https://www.iote.kmitl.ac.th)
 
+## New Update 
+ดู Code ใหม่ของ Natthawit Nowanghan ได้ที่นี่ :
+
 #### Members
 - Nuttida Kanjanalikit
 - Natthawit Nowanghan
